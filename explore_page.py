@@ -2,6 +2,12 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import matplotlib
+
+print("Streamlit version:", st.__version__)
+print("Pandas version:", pd.__version__)
+print("Matplotlib version:", matplotlib.__version__)
+print("Seaborn version:", sns.__version__)
 
 
 def shorten_categories(categories, cutoff):
