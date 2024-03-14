@@ -5,8 +5,6 @@ from prophet import Prophet
 from prophet.plot import plot_plotly
 from plotly import graph_objs as go
 
-
-
 def show_predict_stock_page():
 
     START = '2015-1-1'
