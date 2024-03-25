@@ -1,7 +1,6 @@
-# Build A Salary Prediction Web App With Streamlit
+# Prediction Web App With Streamlit
 
-Build a Machine Learning web application from scratch in Python with Streamlit. We use real world data to build a machine learning model. In the first part of the video you learn how we analyze the data and build our model, and in the second part we build the web app using streamlit.
+Collect data and build machine learning models to make predictions. Predictions include salaries and future stock prices.
+<br> This is for Tesla:
 
-Watch the video on YouTube:  
-[![Alt text](https://img.youtube.com/vi/xl0N7tHiwlw/hqdefault.jpg)](https://youtu.be/xl0N7tHiwlw)  
-[https://youtu.be/xl0N7tHiwlw](https://youtu.be/xl0N7tHiwlw)
+<img width="1204" alt="Screenshot 2024-03-25 at 2 56 03 PM" src="https://github.com/JingyaoGu1/prediction/assets/43628019/f92d3b4c-e792-4dfc-8547-e6b215291340">
